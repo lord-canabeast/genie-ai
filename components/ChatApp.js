@@ -599,7 +599,7 @@ export default function ChatApp() {
                 placeholder="Message Genie…"
                 rows={1}
                 disabled={loading}
-                className="w-full bg-transparent text-sm text-zinc-900 dark:text-zinc-100
+                className="w-full bg-transparent text-base sm:text-sm text-zinc-900 dark:text-zinc-100
                   placeholder-zinc-400 dark:placeholder-zinc-600
                   resize-none focus:outline-none leading-relaxed
                   px-4 pt-3.5 pb-3 pr-14 max-h-[200px] overflow-y-auto disabled:opacity-60"
